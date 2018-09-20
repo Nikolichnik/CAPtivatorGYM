@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FINDER-32.21-x300
+D FINDER 32.21-x300, Single Pole Relay SPST-NO, 6A
+K Single Pole Relay SPST-NO
+F http://gfinder.findernet.com/assets/Series/355/S32EN.pdf
+$ENDCMP
+#
+$CMP FINDER-36.11-4301
+D FINDER 36.11-4301, Single Pole Relay SPST-NO Sugar Cube, 10A
+K Single Pole Relay SPST-NO Sugar Cube
+F http://gfinder.findernet.com/assets/Series/356/S36EN.pdf
+$ENDCMP
+#
+$CMP RM50-xx21
+D RELPOL, Single Pole Relay SPST-NO, 6A
+K Single Pole Relay SPST-NO
+F http://www.relpol.pl/en/content/download/13683/165953/file/e_RM50.pdf
+$ENDCMP
+#
+#End Doc Library
