@@ -6,4 +6,6 @@ It is designed to automate process of charging/discharging supercapacitors while
 
 <hr>
 
-![alt text](https://raw.githubusercontent.com/Nikolichnik/CAPtivatorGYM/master/CAPtivatorGYM.jpg)
+<p align="center">
+  <a href=""><img src="https://raw.githubusercontent.com/Nikolichnik/CAPtivatorGYM/master/CAPtivatorGYM.jpg"></a>
+</p>
