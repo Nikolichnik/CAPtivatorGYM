@@ -7,5 +7,5 @@ It is designed to automate process of charging/discharging supercapacitors while
 <hr>
 
 <p align="center">
-  <a href=""><img src="https://raw.githubusercontent.com/Nikolichnik/CAPtivatorGYM/master/CAPtivatorGYM.jpg"></a>
+  <a href="https://github.com/Nikolichnik/CAPtivatorINTEL"><img src="https://raw.githubusercontent.com/Nikolichnik/CAPtivatorGYM/master/CAPtivatorGYM.jpg"></a>
 </p>
